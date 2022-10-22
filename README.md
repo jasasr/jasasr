@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasasr
-- 👀 I’m interested in System Analytics
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in System Analysis
+- 🌱 I’m currently learning Information System Professional & interested in Data Science
 - 💞️ I’m looking to collaborate on Python Reaserch
 - 📫 How to reach me jasasr
 
